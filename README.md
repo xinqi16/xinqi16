@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xinqi16
 - 🌱 I’m currently learning fenics and CFD
-- 📫 How to reach me qixin1@link.cuhk.edu.cn
+
 
 
 <!---
@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👀 I’m interested in ...
+- 📫 How to reach me qixin1@link.cuhk.edu.cn
 --->
