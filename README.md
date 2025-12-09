@@ -12,3 +12,10 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in ...
 - 📫 How to reach me qixin1@link.cuhk.edu.cn
 --->
+![Snake Game](https://raw.githubusercontent.com/xinqi16/xinqi16/output/github-contribution-grid-snake.svg)
+
+<!-- 左右仪表盘 -->
+<div align="center">
+  <img src="https://gist.githubusercontent.com/xinqi16/b3a3e28782078b93f3b0709099ebcef2/raw/left.svg" width="45%" />
+  <img src="https://gist.githubusercontent.com/xinqi16/9440cfcbb8292038210f8f17195b6e2b/raw/right.svg" width="45%" />
+</div>
