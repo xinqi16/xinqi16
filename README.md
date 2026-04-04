@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xinqi16
-- 🌱 I’m currently learning fenics and CFD
+- 🌱 I’m currently working on Stokes solvers for microfluidic devices
 
 
 
